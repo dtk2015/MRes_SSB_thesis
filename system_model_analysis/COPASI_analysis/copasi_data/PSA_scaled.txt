@@ -1,0 +1,7 @@
+	Values[k1].InitialValue	Values[kd1].InitialValue	Values[kt3].InitialValue	Values[kt5].InitialValue	Values[k2].InitialValue	Values[kd2].InitialValue
+[l1]	1	-0.000166506	-0.499667	-0.499667	0	0
+[l13]	1	-0.000499462	0.499833	-1.49784	0	0
+[l15]	1	-0.000499462	-1.49784	0.499833	0	0
+[l135]	1	-0.00982958	0.00024944	0.00024944	-0.989689	2.06728e-13
+[c]	1	-0.00982958	0.00024944	0.00024944	0.00932097	-0.999001
+
